@@ -1,0 +1,21 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+    color: black; 
+}
+
+h1 {
+	font-size: 32px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: hotpink; 
+}
+
+.nav { color: antiquewhite }
+
+.container {
+    background-image: 
+    url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+    background-size: cover;
+}
